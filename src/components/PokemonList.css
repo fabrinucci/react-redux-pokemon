@@ -1,0 +1,12 @@
+.PokemonList {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 3rem;
+  padding: 0 3rem 3rem;
+}
+
+.PokemonCard img {
+  width: 150px;
+  height: 120px;
+}

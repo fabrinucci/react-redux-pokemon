@@ -1,0 +1,13 @@
+@import 'antd/dist/antd.css'; 
+
+.App {
+  margin-top: 3rem;
+}
+
+.ColLogo {
+  margin-bottom: 3rem;
+}
+
+.ColSpinner {
+  margin-top: 2rem;
+}
